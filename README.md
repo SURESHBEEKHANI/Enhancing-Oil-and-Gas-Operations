@@ -1,6 +1,5 @@
 ## Project Results
-# Correlation Analysis
-Overview
+
 This project analyzes correlations found in the dataset. It's crucial to interpret these correlations with caution due to the nature of the data:
 
 Correlation of 1.0: Cannot be considered an accurate positive correlation due to lack of historical data. It's deemed flawed.
